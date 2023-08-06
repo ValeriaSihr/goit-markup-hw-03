@@ -105,6 +105,11 @@ img {
   gap: 40px;
 }
 
+.address-style {
+  display: flex;
+  gap: 40px;
+}
+
 .header-address-link {
   display: inline-block;
   color: var(--color-text);
@@ -138,10 +143,7 @@ img {
   gap: 40px;
 }
 
-.address-style {
-  display: flex;
-  gap: 40px;
-}
+
 
 .header-container {
   display: flex;
@@ -152,7 +154,7 @@ img {
   /*improve */
   color: var(--color-white-background);
   background-color: var(--color-dark);
-  padding: 188px;     
+  padding: 188px 0;     
 }
 
 
