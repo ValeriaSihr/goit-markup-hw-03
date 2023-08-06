@@ -323,7 +323,7 @@ gap: 24px;
   max-width: 264px;
 }
 
-.portfolio-title {
+.portfolio-tytle {
   color: var(--color-dark);
   font-size: 20px;
   font-weight: 500;
@@ -392,6 +392,7 @@ gap: 24px;
   clip-path: inset(100%);
   clip: rect(0 0 0 0);
   overflow: hidden;
+  
 }
 
 
